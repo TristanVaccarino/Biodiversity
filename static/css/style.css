@@ -1,0 +1,17 @@
+html,
+body {background-color: mediumpurple;}
+.jumbotron {
+    color: rosybrown;
+}
+.well {
+    color: black;
+}
+.panel-primary {
+    color: black;
+}
+p {
+    text-align: center;
+}
+#intro {
+    font-size: large;
+}
