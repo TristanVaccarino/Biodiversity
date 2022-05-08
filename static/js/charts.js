@@ -1,3 +1,6 @@
+// To set the data file location
+const dataFileLocation = "./static/data/samples.json"
+
 // INITIALIZE DASHBOARD
 function init() {
   // Grab a reference to the dropdown select element
