@@ -1,2 +1,2 @@
 # Biodiversity
-[Belly Button Biodiversity Dashboard Site](https://TristanVaccarino.github.io/Plotly_Development/)
+[Belly Button Biodiversity Site](https://TristanVaccarino.github.io/Plotly_Development/)
